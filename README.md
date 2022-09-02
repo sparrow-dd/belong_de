@@ -38,3 +38,13 @@
 
 **raw_mc_df.parquet**  - local copy of raw_mc_df
 
+**AWS Data Architecture.pdf** - Architecture diagram
+
+**ERD.pdf** - data structure design
+
+**partitions in s3.docx** - partition structrure in s3
+
+**pedestrian-counts-insights.twbx** - Tableau workbook
+
+**Tableau Visualisation.docx** - Tableau workbook screenshots 
+
